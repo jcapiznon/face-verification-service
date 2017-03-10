@@ -1,0 +1,8 @@
+{
+  "apiKey": {
+	"label": "API Key",
+	"type": "Password",
+	"required": true,
+	"help": "Microsoft Project Oxford Face API key."
+  }
+}
